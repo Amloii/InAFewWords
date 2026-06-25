@@ -96,7 +96,7 @@ MIT — see [LICENSE](LICENSE).
 
 Built as a pet project exploring multilingual NLP and HuggingFace transformer pipelines, prior to the widespread availability of LLM-based summarization.
 
-[GitHub](https://github.com/Amloii) · [LinkedIn](https://linkedin.com/in/danigdominguez) · [Portfolio](https://amloii.github.io)
+[GitHub](https://github.com/Amloii) · [LinkedIn](https://linkedin.com/in/danigdominguez) · [Portfolio](https://amloii-page.pages.dev)
 
 <br>
 
